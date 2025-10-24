@@ -24,7 +24,7 @@ Open the live demo to try it right away:
 
  
 
-🔗 **Live Demo:** https://with-alif.github.io/SOT_photo_Card/
+🔗 **Live Demo:** https://with-alif.github.io/Photo_Card_Generator/
 
  
  
